@@ -52,12 +52,6 @@ h1{
     grid-template-rows: repeat(4, 400px);
     justify-content: center;
     }
-    .img-integrantes {
-      width: 340px;
-    }
-    .img-banner{
-      width: 390px;
-    }
     iframe{
       width: 340px;
     }
