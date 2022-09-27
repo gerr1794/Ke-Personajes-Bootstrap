@@ -53,9 +53,12 @@ h1{
     justify-content: center;
     }
     .img-integrantes {
-      width: 360px;
+      width: 340px;
     }
     .img-banner{
       width: 390px;
+    }
+    iframe{
+      width: 340px;
     }
 }
