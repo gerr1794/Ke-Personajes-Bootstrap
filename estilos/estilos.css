@@ -55,4 +55,13 @@ h1{
     iframe{
       width: 340px;
     }
+    div.hijo{
+      width: 370px;
+    }
+    .hijo{
+      padding: 2rem;
+    }
+    img{
+      margin-left: 15px;
+    }
 }
