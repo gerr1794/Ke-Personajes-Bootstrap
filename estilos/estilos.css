@@ -52,4 +52,10 @@ h1{
     grid-template-rows: repeat(4, 400px);
     justify-content: center;
     }
+    .img-integrantes {
+      width: 360px;
+    }
+    .img-banner{
+      width: 390px;
+    }
 }
